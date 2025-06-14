@@ -135,16 +135,16 @@
 			<td>
 				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="100 Score"/ </picture>
 			</td>
-		</tr>	
+		</tr>		 -->
 		<tr>
 			<td>05</td>
-			<td>📡 Webserv</td>
+			<td><a href="https://github.com/ulsgks/webserv">📡 Webserv</a></td>
 			<td>server, HTTP/1.1, socket, parsing, testing</td>
 			<td></td>
 			<td>
 				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
 		</td>
-		</tr>	
+<!-- 		</tr>	
 		<tr>
 			<td>05</td>
 			<td>🐳 Inception</td>
