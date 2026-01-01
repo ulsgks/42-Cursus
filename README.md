@@ -24,7 +24,7 @@
 			<td>documented</td>
 			<td>
 				<picture>
-					<img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Libft Score" />
+					<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score" /></picture>
 				</picture>
 			</td>
 		</tr>
@@ -127,15 +127,15 @@
 				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
 			</td>
 		</tr>
-<!-- 		<tr>
+		<tr>
 			<td>05</td>
-			<td>⚖️ Ford–Johnson algorithm</td>
+			<td><a href="https://github.com/ulsgks/ford-johnson_algorithm">⚖️ Ford–Johnson algorithm</a></td>
 			<td>algorithm, comparison-optimal, binary insertion</td>
 			<td></td>
 			<td>
-				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="100 Score"/ </picture>
+				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
 			</td>
-		</tr>		 -->
+		</tr>
 		<tr>
 			<td>05</td>
 			<td><a href="https://github.com/ulsgks/webserv">📡 Webserv</a></td>
@@ -144,7 +144,7 @@
 			<td>
 				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
 		</td>
-<!-- 		</tr>	
+		</tr>	
 		<tr>
 			<td>05</td>
 			<td>🐳 Inception</td>
@@ -153,7 +153,16 @@
 			<td>
 				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
 		</td>
-		</tr>	 -->
+		</tr>
+		<tr>
+			<td>06</td>
+			<td>🏓 Transcendence</td>
+			<td>Web dev, frontend</td>
+			<td></td>
+			<td>
+				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
+		</td>
+		</tr>
 	</tbody>
 </table>
 <br>
