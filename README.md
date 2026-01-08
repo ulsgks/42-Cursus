@@ -131,7 +131,7 @@
 			<td>05</td>
 			<td><a href="https://github.com/ulsgks/ford-johnson_algorithm">⚖️ Ford–Johnson algorithm</a></td>
 			<td>algorithm, comparison-optimal, binary insertion</td>
-			<td></td>
+			<td>Strict implementation!</td>
 			<td>
 				<picture><img src="https://github.com/ulsgks/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
 			</td>
